@@ -32,10 +32,10 @@ Energy Management: Implement load balancing in microgrids to ensure efficient en
 This solution is crucial in areas where traditional energy infrastructure is not feasible, providing a sustainable and reliable alternative.
 
 Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 ![Waves](https://github.com/JaribuBahati/My-new-project/blob/main/Image.png)
 
-If you need to resize images, you have to use an HTML tag, like this:
+
 <img src="https://github.com/JaribuBahati/My-new-project/blob/main/Image.png" width="300">
 
 This is how you create code examples:
