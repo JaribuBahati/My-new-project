@@ -36,7 +36,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![Waves](https://github.com/JaribuBahati/My-new-project/blob/main/Image.png)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="[https://github.com/JaribuBahati/My-new-project/blob/main/Image.png]" width="300">
+<img src="https://github.com/JaribuBahati/My-new-project/blob/main/Image.png" width="300">
 
 This is how you create code examples:
 ```
