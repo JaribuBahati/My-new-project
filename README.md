@@ -36,7 +36,7 @@ Images will make your README look nice!
 ![Waves](https://github.com/JaribuBahati/My-new-project/blob/main/Image.png)
 
 
-<img src="https://github.com/JaribuBahati/My-new-project/blob/main/Image.png" width="300">
+<img src="https://github.com/JaribuBahati/My-new-project/blob/main/Image.png" width="500">
 
 This is how you create code examples:
 ```
