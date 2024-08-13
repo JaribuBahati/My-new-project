@@ -3,15 +3,7 @@ created by Reaktor Innovations and University of Helsinki.
 Copy the template, paste it to your GitHub README and edit! -->
 
 # AI-Energy Optimizer for Off-Grid Communities (AI-EOC)
-Final project for the Building AI course
 
-AI-Energy Optimizer for Off-Grid Communities (AI-EOC)
-
-Final project for the Building AI course
-
-Summary
-
-AI-EOC is an AI-driven system designed to optimize the generation, distribution, and storage of renewable energy in off-grid areas. It uses predictive analytics and optimization algorithms to enhance energy access, reduce costs, and improve the reliability of renewable energy sources in remote regions.
 
 Background
 
@@ -73,7 +65,7 @@ Special thanks to the creators of the datasets and the AI community for making r
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+AI-EOC is an AI-driven system designed to optimize the generation, distribution, and storage of renewable energy in off-grid areas. It uses predictive analytics and optimization algorithms to enhance energy access, reduce costs, and improve the reliability of renewable energy sources in remote regions.
 
 
 ## Background
