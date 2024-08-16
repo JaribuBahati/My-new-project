@@ -5,12 +5,12 @@ Copy the template, paste it to your GitHub README and edit! -->
 # AI-Energy Optimizer for Off-Grid Communities (AI-EOC)
 
 
-## Summary
+## *Summary*
 
 AI-EOC is an AI-driven system designed to optimize the generation, distribution, and storage of renewable energy in off-grid areas. It uses predictive analytics and optimization algorithms to enhance energy access, reduce costs, and improve the reliability of renewable energy sources in remote regions.
 
 
-## Background
+## *Background*
 
 Many remote areas in the Global South struggle with unreliable access to electricity, hindering economic development, healthcare, education, and quality of life. Traditional energy infrastructure is often too expensive or impractical, leading to energy poverty.
 
@@ -22,7 +22,7 @@ The need for sustainable and affordable energy solutions.
 My personal motivation stems from a desire to leverage technology to bridge the energy gap in underserved areas, contributing to economic and social development.
 
 
-## How is it used?
+## *How is it used?*
 
 AI-EOC is used in off-grid and remote communities, particularly in the Global South. It involves the following steps:
 
@@ -57,7 +57,7 @@ main()
 ```
 
 
-## Data sources and AI methods
+## *Data sources and AI methods*
 The project relies on several data sources:
 
 Solar and Wind Data: From meteorological databases.
