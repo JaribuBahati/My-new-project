@@ -78,7 +78,7 @@ If you need to use links, here's an example:
 | Header      | Title       |
 | Paragraph   | Text        |
 
-## Challenges
+## *Challenges*
 
 The project does not address:
 
@@ -89,7 +89,7 @@ d.) Ethical considerations include ensuring equitable access to the technology a
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
-## What next?
+## *What next?*
 
 Future growth could involve:
 
@@ -101,7 +101,7 @@ Future growth could involve:
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
 
-## Acknowledgments
+## *Acknowledgments*
 
 
 Inspiration drawn from the MIT Open Energy Initiative and the World Resources Institute.
